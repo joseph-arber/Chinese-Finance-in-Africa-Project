@@ -1,4 +1,4 @@
-##The impact of Chinese lending on state and firm level governance across Africa
+The impact of Chinese lending on state and firm level governance across Africa
 
 Using a manually coded dataset with 1000 observations, I measured the impact of Chinese non-concessional loans on corruption and governance standards across 35 African states between 2006 and 2016. 
 
