@@ -1,5 +1,7 @@
+# The Impact of Chinese Finance in Africa
 
-# Do Chinese Loans facilitate a worsening in good governance metrics at the state level?
+
+## Do Chinese Non-concessional loans facilitate a worsening in good governance metrics at the state level?
 
 
 Paper: https://www.researchgate.net/publication/338580894_A_Multi-Method_Analysis_of_the_impact_of_Chinese_non-concessional_finance_on_state-level_governance_in_Africa
