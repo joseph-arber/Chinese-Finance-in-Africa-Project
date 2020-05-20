@@ -14,6 +14,9 @@ Using a manually coded dataset with 1000 observations, I measured the impact of 
 
 After fitting several **Panel Linear Models (PLMs)**, to analyse the non-linear relationship i programmed several **Generalized Additive Boosted Models (GAMs)** in R. 
 
+https://cran.r-project.org/web/packages/gam/gam.pdf
+https://cran.r-project.org/web/packages/plm/plm.pdf
+
 I feature-engineered several variables that captured:
 
 1. Whether a state had received both multilateral loans and Chinese loans in a given year
