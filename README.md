@@ -71,4 +71,9 @@ Results from the regressions provided no evidence for an association between gre
 
 **Relationship between volume of private Chinese contracts and state-level corruption**
 
+`` ggplot(Panel1, aes(x = Chinese_contracts, y = Control_of_corruption)) + 
+geom_point(mapping = aes(x = Chinese_contracts, y = Control_of_corruption, color = Received_Chinese_loans)) +
+scale_x_log10() + stat_smooth(method = "gam", formula = y ~ s(x,k=10))``
+
+
 ![Image of Yaktocat](https://github.com/JUA96/Chinese-Finance-in-Africa-Project/blob/master/images/img4.png)
