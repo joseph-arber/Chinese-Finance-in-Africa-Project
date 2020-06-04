@@ -25,6 +25,17 @@ I feature-engineered several variables that captured:
 2. A good governance feature that captured the weighted average of a state's corruption level, regulatory quality and respect for property rights
 3. The volume of PPPs (public-private partnerships) infrastructure contracts within a recipient state.
 
+### Data and Features:
+
+- Good-Governance: 
+- Corruption Level:
+- Regulatory Quality:
+- 
+
+
+
 ### Insights:
 
 Results from the regressions provided no evidence for an association between greater levels of Chinese lending and worsening governance metrics. Albeit, after introducing a new variable for whether states had received Chinese loans in a given year, the models indicated that the receipt of Chinese loans is associated with a decline in good governance. In contrast the effect of receiving IMF loans is far less impactful on governance metrics. Overall, the empirical results produced by the panel and GAM regressions suggested that the relationship was far more complex than first assumed.
+
+
