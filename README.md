@@ -63,6 +63,7 @@ Controls:
 - Oil rent and natural resource volumes
 - Internet and media censorship
 
+![Image of Countries](https://github.com/JUA96/Chinese-Finance-in-Africa-Project/blob/master/images/img5.png)
 
 ### Insights:
 
