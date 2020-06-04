@@ -27,7 +27,7 @@ I feature-engineered several variables that captured:
 
 ### Data and Features:
 
-![](images/Screenshot 2020-06-04 at 07.50.05.pngScreenshot 2020-06-04 at 07.50.05.png)
+![Image of Variables](file:///Users/joseph_arber/Desktop/images/Screenshot%202020-06-04%20at%2007.50.05.png)
 
 - Good-Governance: 
 - Corruption Level:
