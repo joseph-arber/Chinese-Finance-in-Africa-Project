@@ -38,7 +38,7 @@ Mary. https://www.aiddata.org/publications/geocoding-methodology-version-2-0
 5. WBI: World Bank Indicators; economy, governance and geography https://data.worldbank.org/indicator?tab=all
 6. WGI: Worldwide Governance Indicators (www.govindicators.org)
 7. IMF Lending and Debt Data:
-https://www.imf.org/external/datamapper/DEBT1@DEBT/OEMDC/ADVEC/WEOWORLD?year=2015
+https://www.imf.org/external/datamapper/DEBT1
 
 
 ### Data and Features:
