@@ -8,7 +8,7 @@ Paper: https://www.researchgate.net/publication/338580894_A_Multi-Method_Analysi
 
 
 
-Over the past decade, Chinese financial flows to Africa have increased considerably. As part of these flows, China has distributed non-concessional loans totaling $300bn (USD) across the continent. The scale of this financing has encouraged academics and policymakers alike to question the motivations behind Chinese lending, and more specifically whether the distribution of non-concessional finance reflects a similar set of conditions to the institutionalized multilateral-lending of the IMF and the World Bank. Simultaneously, attention has been directed to the protracted impact of Chinese lending on recipient states.
+Over the past decade, Chinese financial flows to Africa have increased considerably. As part of these flows, China has distributed non-concessional loans totaling $300bn (USD) across the continent. The scale of this financing has encouraged academics and policymakers alike to question the motivations behind Chinese lending, and more specifically whether the distribution of non-concessional finance reflects a similar set of conditions to the institutionalized multilateral-lending of the IMF and the World Bank. Simultaneously, attention has been directed to the protracted impact of Chinese lending on recipient states. Have Chinese lending programmes resulted in worse good governance metrics? Or are loans distributed on the conditionality of the award of private infrastructure contracts to the Chinese state?
 
 ### Strategy:
 
