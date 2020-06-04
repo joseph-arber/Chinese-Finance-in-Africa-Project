@@ -53,3 +53,4 @@ Controls:
 Results from the regressions provided no evidence for an association between greater levels of Chinese lending and worsening governance metrics. Albeit, after introducing a new variable for whether states had received Chinese loans in a given year, the models indicated that the receipt of Chinese loans is associated with a decline in good governance. In contrast the effect of receiving IMF loans is far less impactful on governance metrics. Overall, the empirical results produced by the panel and GAM regressions suggested that the relationship was far more complex than first assumed.
 
 
+![Image of Yaktocat](https://github.com/JUA96/Chinese-Finance-in-Africa-Project/blob/master/images/img4.png)
