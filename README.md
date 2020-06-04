@@ -27,13 +27,25 @@ I feature-engineered several variables that captured:
 
 ### Data and Features:
 
-![Image of Variables](file:///Users/joseph_arber/Desktop/images/Screenshot%202020-06-04%20at%2007.50.05.png)
+Dependent Variables:
+- Good-Governance (basket average of the following four variables)
+- Corruption Level
+- Regulatory Quality
+- Rule of law
+- Property Rights
 
-- Good-Governance: 
-- Corruption Level:
-- Regulatory Quality:
-- 
+Features:
+- Chinese loans (amount USD)
+- Chinese contracts (amount USD)
+- Chinese loans recieved (dummy variable)
+- IMF loans
+- World Bank Loans
 
+Controls:
+- GDP
+- Debt level
+- Oil rent and natural resource volumes
+- Internet and media censorship
 
 
 ### Insights:
