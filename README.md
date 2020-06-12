@@ -19,12 +19,16 @@ After fitting several **Panel Linear Models (PLMs)**, to analyse the non-linear 
 https://cran.r-project.org/web/packages/gam/gam.pdf
 https://cran.r-project.org/web/packages/plm/plm.pdf
 
+The following code chunk is an example of the coding workflow that was used produce the models: 
+
 ``
 library(mgcv)
 M1 <-gam(Good_gov ~ s(Inflation_annual, k = 10) + Received_Chinese_loans + lag(Loans_Chinese) + LogGovExp + LogODA + LogGDP + Central_govt_debt + Natural_resource  Internet_censorship, data = Panel1, method = "REML", family = "gaussian", select = TRUE)
+
 #Model Check
 summary.gam(M1)
 gam.check(M1)
+
 #Model fit
 library(aod)
 waldtest2 = wald.test(b = coef(M1), Sigma = vcov(M1), Terms = 1:13)``
