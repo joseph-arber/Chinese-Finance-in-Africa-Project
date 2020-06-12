@@ -19,7 +19,19 @@ After fitting several **Panel Linear Models (PLMs)**, to analyse the non-linear 
 https://cran.r-project.org/web/packages/gam/gam.pdf
 https://cran.r-project.org/web/packages/plm/plm.pdf
 
-I feature-engineered several variables that captured:
+``
+library(mgcv)
+M1 <-gam(Good_gov ~ s(Inflation_annual, k = 10) + Received_Chinese_loans + lag(Loans_Chinese) + LogGovExp + LogODA + LogGDP + Central_govt_debt + Natural_resource  Internet_censorship, data = Panel1, method = "REML", family = "gaussian", select = TRUE)
+
+#Model Check
+summary.gam(M1)
+gam.check(M1)
+#Model fit
+library(aod)
+waldtest2 = wald.test(b = coef(M1), Sigma = vcov(M1), Terms = 1:13)
+waldtest2`` 
+
+I then feature-engineered several variables that captured:
 
 1. Whether a state had received both multilateral loans and Chinese loans in a given year
 2. A good governance feature that captured the weighted average of a state's corruption level, regulatory quality and respect for property rights
