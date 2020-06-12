@@ -27,8 +27,9 @@ M1 <-gam(Good_gov ~ s(Inflation_annual, k = 10) + Received_Chinese_loans + lag(L
 
 ``#Model Check
 summary.gam(M1)
-gam.check(M1)
-#Model fit
+gam.check(M1)``
+
+``#Model fit
 library(aod)
 waldtest2 = wald.test(b = coef(M1), Sigma = vcov(M1), Terms = 1:13)``
 
