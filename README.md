@@ -1,4 +1,4 @@
-# The Impact of Chinese Finance in Africa
+# The Impact of Chinese Financing in Africa
 
 
 ## Do Chinese Non-concessional loans facilitate a worsening in good governance metrics at the state level?
@@ -9,6 +9,17 @@ Paper: https://www.researchgate.net/publication/338580894_A_Multi-Method_Analysi
 
 
 Over the past decade, Chinese financial flows to Africa have increased considerably. As part of these flows, China has distributed non-concessional loans totaling $300bn (USD) across the continent. The scale of this financing has encouraged academics and policymakers alike to question the motivations behind Chinese lending, and more specifically whether the distribution of non-concessional finance reflects a similar set of conditions to the institutionalized multilateral-lending of the IMF and the World Bank. Simultaneously, attention has been directed to the protracted impact of Chinese lending on recipient states. Have Chinese lending programmes resulted in worse good governance metrics? Or are loans distributed on the conditionality of the award of private infrastructure contracts to the Chinese state?
+
+#### Exploratory Analysis:
+
+To understand the impact of Chinese financing in Africa, data, taken from the China in Africa Research Initative was explored. This entailed conducting preliminary analysis on Chinese non-concessional loans. A few questions were investigated:
+
+- What types of state recieves the most finance from China 
+- Which countries have the worst governance ratings?
+
+The findings from these questions were used to inform the modelling phases from this analysis. An example of some of the exploratory analysis conducted is shown below:
+
+![Image of Countries](https://github.com/JUA96/Chinese-Finance-in-Africa-Project/blob/master/images/Screenshot%202020-06-28%2016.10.21.png)
 
 ### Strategy:
 
