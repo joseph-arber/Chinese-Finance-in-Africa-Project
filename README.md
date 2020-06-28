@@ -19,6 +19,12 @@ To understand the impact of Chinese financing in Africa, data, taken from the Ch
 
 The findings from these questions were used to inform the modelling phases from this analysis. An example of some of the exploratory analysis conducted is shown below:
 
+The first plot shows the **trends in good governance metrics** in selected African states over the specified time period. 
+
+![Image of Countries](https://github.com/JUA96/Chinese-Finance-in-Africa-Project/blob/master/Screenshot%202020-06-28%2016.28.40.png)
+
+The second plot shows the **relationship between good governance trends and the forecasted loans size from China**. This graph was particuarly useful in informing the feature selection for the models.
+
 ![Image of Countries](https://github.com/JUA96/Chinese-Finance-in-Africa-Project/blob/master/images/Screenshot%202020-06-28%2016.10.21.png)
 
 ### Strategy:
